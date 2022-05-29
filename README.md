@@ -11,7 +11,7 @@ pkg upgrade
 
 pkg install git
 
-git clone https://github.com/mrkarthick-cool/all_pkg_insrall
+git clone https://github.com/mrkarthick-cool/all_pkg_insrall.git
 
 
 ls
