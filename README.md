@@ -22,4 +22,4 @@ ls
 
 chmod +x *
 
-./all_pkg_insrall 
+bash All_pkg_cmds.sh  
