@@ -2,6 +2,20 @@
 
 clear
 
+
+clear
+
+echo "       𝐉𝐨𝐢𝐧 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐜𝐡𝐚𝐧𝐧𝐞𝐥  " 
+echo ""
+echo " https://telegram.me/ANONYMOUSKINGCHANNEL" 
+echo " "
+echo "          ☠️ 🄲🅈🄱🄴🅁 🅆🄰🅁🄽🄸🄽🄶 ⚠️ "
+echo " "
+echo " this tool developer : KARTHICK "
+
+xdg-open https://telegram.me/ANONYMOUSKINGCHANNEL
+sleep 2 
+
 echo ""------------------------------------------------------""
 # we are Anonymous
 
