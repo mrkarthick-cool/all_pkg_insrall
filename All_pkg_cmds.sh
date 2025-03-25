@@ -8,10 +8,10 @@ clear
 echo "       𝐉𝐨𝐢𝐧 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐜𝐡𝐚𝐧𝐧𝐞𝐥  " 
 echo ""
 echo " https://telegram.me/ANONYMOUSKINGCHANNEL" 
-echo " "
+echo " telegram : @Drak24Evil"
 echo "          ☠️ 🄲🅈🄱🄴🅁 🅆🄰🅁🄽🄸🄽🄶 ⚠️ "
 echo " "
-echo " this tool developer : KARTHICK "
+echo " this tool developer : insta : mr_rkarthik "
 
 xdg-open https://telegram.me/ANONYMOUSKINGCHANNEL
 sleep 2 
@@ -137,12 +137,12 @@ clear
 pkg install telnet
 pkg install Install oneko
 clear 
-pkg Install while
+pkg install while
 pkg install mc
 clear
 
 pkg install fortune
-pkg Install fish -y
+pkg install fish -y
 clear
 pkg install python -y          
 pkg install python2 -y
@@ -218,12 +218,17 @@ pkg install htop
 echo " 46 packages  install successfully "
 figlet BYEE  |lolcat -S 143
 
+clear 
+
+
+xdg-open https://Instagram.com/mr_rkarthik
 
 
 
-exit 
-exit
-exit
+exit ; exit ; exit ; exit ; exit
+exit ; exit ; exit ; exit ; exit
+exit ; exit ; exit ; exit ; exit
+exit ; exit ; exit ; exit ; exit
 
 
 
