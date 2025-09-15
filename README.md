@@ -1,4 +1,4 @@
-# all_pkg_insrall
+# all_pkg_install
 THIS TOOL  PROCESS IS BASIC Package INSTALL IN TERMUX FOR GREEN HAT HACKERS 
 
 
@@ -16,7 +16,7 @@ git clone https://github.com/mrkarthick-cool/all_pkg_insrall.git
 
 ls
 
-cd all_pkg_insrall
+cd all_pkg_install
 
 ls
 
